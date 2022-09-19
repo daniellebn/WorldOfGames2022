@@ -1,0 +1,8 @@
+version: "3.3"
+services:
+ # ansible:
+ # command: ["sleep", "100000"]
+   #image: "danielle92/wog_image:v1"
+ node1:
+   image: "danielle92/wog_image:v1"
+
